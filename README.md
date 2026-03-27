@@ -9,14 +9,15 @@
 - Адаптивный веб-интерфейс для ПК и мобильных устройств.
 - Ролевая модель доступа (Менеджер, Администратор).
 
-Технологический стек
+## 🛠 Технологический стек
 
-Компонент        Техноология
-Backend          C#, ASP.NET Core  
-Database         PostgreSQL
-Frontend         HTML5, CSS3, JavaScript (Blazor/MVC) 
-Desing           Figma (UI/UX макеты) 
-IDE              Visual Studio 2026  
-Version Control  Git, GitHub  
+| Компонент | Технология |
+| :--- | :--- |
+| **Backend** | C#, ASP.NET Core |
+| **Database** | PostgreSQL |
+| **Frontend** | HTML5, CSS3, JavaScript (Blazor / MVC) |
+| **Design** | Figma (UI/UX макеты) |
+| **IDE** | Visual Studio 2022 |
+| **Version Control** | Git, GitHub |
 
 *Проект разработан в учебных целях. Все права защищены.*
